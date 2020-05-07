@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         editor.putInt("idade", 26);
         editor.putBoolean("estado", false);
 
-        //faz a incersão do que foi escrito
+        //faz a incersão do que foi escrito acima
         editor.apply();
     }
 }
